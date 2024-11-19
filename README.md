@@ -66,9 +66,5 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ---
 
-## 📊 Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Romcro&show_icons=true&theme=radical)
-
----
 
 Merci pour votre visite ! Je suis ouvert aux collaborations et opportunités. N'hésitez pas à me contacter. 😊
