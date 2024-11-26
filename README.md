@@ -20,7 +20,7 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ## 🎓 Formations
 
-- **Bootcamp IA (RNCP Niveau 6 | Bac+3)** - Microsoft et CHRU Nancy *(2024)*  
+- **Bootcamp IA ** - Microsoft et CHRU Nancy *(2024)*  
   - Spécialisation en Python, TensorFlow, PyTorch, Power BI, et Azure.  
 
 - **Concepteur Designer UI (RNCP Niveau 6 | Bac+3)** - AFPA *(2018)*  
