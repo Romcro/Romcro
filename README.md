@@ -78,8 +78,8 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 ---
 
 ## 📊 **Statistiques GitHub**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romuald-crochat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romuald-crochat&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romcro&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romcro&layout=compact&theme=radical)  
 
 ---
 
