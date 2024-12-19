@@ -1,3 +1,4 @@
+
 ---
 
 # 👋 Salut, je suis **Romuald Crochat** !
@@ -7,10 +8,6 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 ---
 
 ## 🌟 **Situation actuelle**
-🎓 **Bootcamp IA (Microsoft et CHRU Nancy)**  
-- **Dates** : Septembre 2024 - 13 décembre 2024  
-- Formation spécialisée en **IA et Data Science** :  
-  - Python, TensorFlow, PyTorch, Power BI, Azure  
 
 🎓 **Formation Machine Learning Engineer (DataScientest)**  
 - **Début** : 10 janvier 2025  
@@ -28,11 +25,15 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ## 🎓 **Formations**
 
+ 
 - **Formation Machine Learning Engineer** - DataScientest *(2025)*  
   - Alternance, Machine Learning, Deep Learning, MLOps, Déploiement IA.  
 
 - **Bootcamp IA** - Microsoft et CHRU Nancy *(2024)*  
-  - Spécialisation en Python, TensorFlow, PyTorch, Power BI, Azure.  
+  - Spécialisation en Python, TensorFlow, PyTorch, Power BI, Azure.
+ 
+- **Certification Google Analytics** *(2024)*  
+  - Analyse et interprétation de données web avec Google Analytics.  
 
 - **Concepteur Designer UI** *(RNCP Niveau 6 | Bac+3)* - AFPA *(2018)*  
   - Conception UX/UI, design d’interfaces innovantes.  
@@ -65,6 +66,7 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)  
 ![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?logo=adobecreativecloud&logoColor=white&style=for-the-badge)  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)  
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -94,5 +96,9 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 - **Email** : [crochatromuald@gmail.com](mailto:crochatromuald@gmail.com)  
 - **Téléphone** : 07 61 67 42 04  
 - **LinkedIn** : [Mon profil LinkedIn](https://linkedin.com/in/romuald-crochat)  
+
+---
+
+Merci pour votre visite ! Je suis ouvert à toutes les collaborations ou opportunités. 😊
 
 ---
