@@ -1,9 +1,8 @@
-
 ---
 
 # 👋 Salut, je suis **Romuald Crochat** !
 
-Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le **développement web** et l'**intelligence artificielle**. Actuellement en reconversion dans le domaine du **Machine Learning**, je recherche une **alternance en tant que Machine Learning Engineer**.
+Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le **développement web** et l'**intelligence artificielle**. Actuellement en reconversion dans le domaine du **Machine Learning**, je vais débuter une **formation en alternance en Machine Learning Engineer** à partir de **janvier 2025** et je suis activement à la recherche d'une **entreprise partenaire** pour cette alternance.
 
 ---
 
@@ -13,7 +12,12 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 - Formation spécialisée en **IA et Data Science** :  
   - Python, TensorFlow, PyTorch, Power BI, Azure  
 
-🔍 **Recherche active** : Alternance en **Machine Learning Engineer** à partir de **janvier 2025**.  
+🎓 **Formation Machine Learning Engineer (DataScientest)**  
+- **Début** : 10 janvier 2025  
+- Formation en alternance avec un focus sur :  
+  - **Machine Learning**, **Deep Learning**, **MLOps**, **Déploiement IA**  
+
+🔍 **Recherche active** : Entreprise pour **alternance en Machine Learning Engineer** à partir de **janvier 2025**.  
 
 ---
 
@@ -23,6 +27,9 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 ---
 
 ## 🎓 **Formations**
+
+- **Formation Machine Learning Engineer** - DataScientest *(2025)*  
+  - Alternance, Machine Learning, Deep Learning, MLOps, Déploiement IA.  
 
 - **Bootcamp IA** - Microsoft et CHRU Nancy *(2024)*  
   - Spécialisation en Python, TensorFlow, PyTorch, Power BI, Azure.  
@@ -89,7 +96,3 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 - **LinkedIn** : [Mon profil LinkedIn](https://linkedin.com/in/romuald-crochat)  
 
 ---
-
-Merci pour votre visite ! Je suis ouvert à toutes les collaborations ou opportunités. 😊
-
---- 
