@@ -18,15 +18,10 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ---
 
-## 🌐 **Mon site web**
-🔗 **[Koneko Design Studio](https://www.konekodesignstudio.fr)**  
-
----
-
 ## 🎓 **Formations**
 
  
-- **Formation Machine Learning Engineer** - DataScientest *(2025)*  
+- **Formation Machine Learning Engineer** - DataScientest *(2025 - 2027)*  
   - Alternance, Machine Learning, Deep Learning, MLOps, Déploiement IA.  
 
 - **Bootcamp IA** - Microsoft et CHRU Nancy *(2024)*  
@@ -72,11 +67,14 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ## 💼 **Expériences professionnelles**
 
-- **UI Designer**, [Koneko Design Studio](https://www.konekodesignstudio.fr) *(2018 - aujourd'hui)*  
-  - Conception d’interfaces utilisateur innovantes et optimisation des parcours utilisateurs.
+- **Machine Learning Engineer en alternance **, [Good Forest ](https://www.goodforest.fr/) *(2025 - aujourd'hui)*  
+  - Conception et mise en œuvre de modèles d'apprentissage automatique pour l'analyse des données satellitaires et la détection précoce des dépérissements forestiers.
 
-- **Formateur Référent UI Design**, Educentre *(2021 - 2023)*  
-  - Formation d’apprenants en UX/UI Design et coordination des programmes pédagogiques.
+- **UI Designer**, [Koneko Design Studio](https://www.konekodesignstudio.fr) *(2018 - 2024)*  
+  - Conception d’interfaces utilisateur et optimisation des parcours utilisateurs.
+
+- **Chief Operating Officer **, Educentre *(2021 - 2023)*  
+  - Coordination des équipes et des programmes pédagogiques.
 
 - **Chargé de Communication et Marketing Digital**, BT Est Formation *(2024)*  
   - Création et exécution de campagnes digitales, SEO/SEA, suivi de KPI avec Google Analytics.
