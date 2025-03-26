@@ -3,18 +3,17 @@
 
 # 👋 Salut, je suis **Romuald Crochat** !
 
-Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le **développement web** et l'**intelligence artificielle**. Actuellement en reconversion dans le domaine du **Machine Learning**, je vais débuter une **formation en alternance en Machine Learning Engineer** à partir de **janvier 2025** et je suis activement à la recherche d'une **entreprise partenaire** pour cette alternance.
+Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le **développement web** et l'**intelligence artificielle**. Actuellement en reconversion dans le domaine du **Machine Learning**, j'ai débuté une **formation en alternance en Machine Learning Engineer** en **janvier 2025**.
 
 ---
 
 ## 🌟 **Situation actuelle**
 
 🎓 **Formation Machine Learning Engineer (DataScientest)**  
-- **Début** : 10 janvier 2025  
+- **Début** : 10 janvier 2025  -> 05 mars 2027
 - Formation en alternance avec un focus sur :  
   - **Machine Learning**, **Deep Learning**, **MLOps**, **Déploiement IA**  
 
-🔍 **Recherche active** : Entreprise pour **alternance en Machine Learning Engineer** à partir de **janvier 2025**.  
 
 ---
 
