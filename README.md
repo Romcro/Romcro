@@ -66,13 +66,13 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ## 💼 **Expériences professionnelles**
 
-- **Machine Learning Engineer en alternance **, [Good Forest ](https://www.goodforest.fr/) *(2025 - aujourd'hui)*  
+- **Machine Learning Engineer en alternance**, [Good Forest ](https://www.goodforest.fr/) *(2025 - aujourd'hui)*  
   - Conception et mise en œuvre de modèles d'apprentissage automatique pour l'analyse des données satellitaires et la détection précoce des dépérissements forestiers.
 
 - **UI Designer**, [Koneko Design Studio](https://www.konekodesignstudio.fr) *(2018 - 2024)*  
   - Conception d’interfaces utilisateur et optimisation des parcours utilisateurs.
 
-- **Chief Operating Officer **, Educentre *(2021 - 2023)*  
+- **Chief Operating Officer**, Educentre *(2021 - 2023)*  
   - Coordination des équipes et des programmes pédagogiques.
 
 - **Chargé de Communication et Marketing Digital**, BT Est Formation *(2024)*  
