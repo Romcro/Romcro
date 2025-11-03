@@ -65,7 +65,7 @@ Bienvenue sur ma page GitHub ! Je suis un **UI/UX Designer**, passionné par le 
 
 ## 💼 **Expériences professionnelles**
 
-- **Machine Learning Engineer en alternance**, [Good Forest ](https://www.goodforest.fr/) *(2025 - aujourd'hui)*  
+- **Machine Learning Engineer en alternance**, [goodforest ](https://www.goodforest.fr/) *(2025 - aujourd'hui)*  
   - Conception et mise en œuvre de modèles d'apprentissage automatique pour l'analyse des données satellitaires et la détection précoce des dépérissements forestiers.
 
 - **UI/UX Designer**, Koneko Design Studio *(2018 - 2024)*  
