@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Romuald Crochat</title>
+<meta name="description" content="Romuald Crochat, marketing et communication de l'intelligence artificielle. Projets, parcours et contact.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Instrument+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav" aria-label="Navigation principale">
+  <div class="wrap">
+    <a class="mono-mark" href="#top">R<span>.</span>Crochat</a>
+    <ul>
+      <li><a href="#apropos">À propos</a></li>
+      <li><a href="#projets">Projets</a></li>
+      <li><a href="#parcours">Parcours</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <canvas id="contours" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div class="who">
+      <strong>Romuald Crochat</strong>
+      <span class="label">Marketing &amp; communication IA · Grand Est</span>
+    </div>
+    <h1><span class="h1-line">Rendre l'IA</span> <span class="h1-line"><span class="swap" id="swap">compréhensible</span>.</span></h1>
+    <p class="lede">Je fais le lien entre la technique et les gens, pour que l'intelligence artificielle serve un vrai projet.</p>
+    <div class="chips" aria-label="Repères">
+      <span class="chip">Ex-COO edtech · Station F</span>
+      <span class="chip">Prix Innovation Grand Est 2025</span>
+      <span class="chip">400+ personnes formées</span>
+      <span class="chip">Jury du titre pro CDUI</span>
+    </div>
+    <div class="cta-row">
+      <a class="btn primary" href="#projets">Voir les projets</a>
+      <a class="btn" href="#contact">Me contacter</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section class="block" id="apropos">
+    <div class="wrap">
+      <div class="head">
+        <span class="label">À propos</span>
+        <h2>Un parcours hybride, et c'est <em>ma</em> force.</h2>
+      </div>
+      <div class="about">
+        <div>
+          <p>Je combine une pratique technique de l'IA (modèles de machine learning, bootcamp de l'École IA Microsoft), plusieurs années de marketing et de design centré utilisateur, et une forte expérience de la transmission : formation, conférences, accompagnement de projets.</p>
+          <p>Dès les années 2010, chez Saint-Gobain, j'ai suivi un projet d'automatisation par IA intégré à SAP. Depuis, j'ai piloté une startup edtech à Station F, développé des modèles sur données satellitaires et présenté l'IA comme levier de transition écologique.</p>
+          <div class="facts">
+            <div class="fact"><b>1 000+</b><span>utilisateurs actifs par jour<br>(Educentre)</span></div>
+            <div class="fact"><b>20+</b><span>projets d'interfaces<br>livrés</span></div>
+            <div class="fact"><b>400+</b><span>apprenants formés<br>au design</span></div>
+          </div>
+        </div>
+        <div class="pillars">
+          <div class="pillar"><h3>IA &amp; data</h3><p>IA générative et prompt engineering, machine learning, Python, SQL, data product management.</p></div>
+          <div class="pillar"><h3>Marketing &amp; communication</h3><p>Stratégie digitale, SEO/SEA, gestion de communauté, prise de parole.</p></div>
+          <div class="pillar"><h3>Management</h3><p>Pilotage d'équipe et de partenariats, accompagnement de porteurs de projets.</p></div>
+          <div class="pillar"><h3>Transmission</h3><p>Ateliers de prompting (méthodes RCTFE et BMAD), formateur référent de titre professionnel, jury du titre Concepteur Designer UI, conférences.</p></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="projets">
+    <div class="wrap">
+      <div class="head">
+        <span class="label">Projets</span>
+        <h2>Ce que j'ai construit et porté.</h2>
+      </div>
+      <div class="filters" role="group" aria-label="Filtrer les projets">
+        <button type="button" id="f-all" data-f="all" aria-pressed="true">Tous</button>
+        <button type="button" id="f-ia" data-f="ia" aria-pressed="false">IA</button>
+        <button type="button" id="f-com" data-f="com" aria-pressed="false">Marketing &amp; com</button>
+        <button type="button" id="f-man" data-f="man" aria-pressed="false">Management</button>
+      </div>
+      <div class="projects">
+        <article class="project" data-cat="ia com">
+          <div class="meta"><span class="label">Janv. 2025 – juin 2026</span><span class="award">Prix Innovation Grand Est</span></div>
+          <h3>Goodforest</h3>
+          <p class="role">Machine Learning Engineer &amp; communication du projet</p>
+          <ul>
+            <li>Modèles prédictifs sur données satellitaires pour l'analyse environnementale.</li>
+            <li>Prix Innovation Grand Est au hackathon BioEcoCamp 2025.</li>
+            <li>Conférences sur l'IA et la transition écologique (Epitech et autres écoles).</li>
+          </ul>
+          <div class="tags"><span class="tag">Machine learning</span><span class="tag">Satellite</span><span class="tag">Prise de parole</span></div>
+        </article>
+
+        <article class="project" data-cat="man ia">
+          <div class="meta"><span class="label">2021 – 2023</span><span class="label">Station F, Paris</span></div>
+          <h3>Educentre</h3>
+          <p class="role">Chief Operating Officer</p>
+          <ul>
+            <li>Croissance de la plateforme pédagogique jusqu'à 1 000+ utilisateurs actifs par jour.</li>
+            <li>Sélectionnée au Fighters Program, puis au Founders Program de Station F.</li>
+            <li>Partenariats stratégiques, coordination des équipes produit et pédagogiques.</li>
+            <li>Intégration de l'IA dans la plateforme : outils pour les formateurs et suivi des apprenants par l'IA pour sécuriser les financements.</li>
+          </ul>
+          <div class="tags"><span class="tag">Edtech</span><span class="tag">Pilotage</span><span class="tag">Partenariats</span></div>
+        </article>
+
+        <article class="project" data-cat="com">
+          <div class="meta"><span class="label">2017 – 2024</span><span class="label">Freelance</span></div>
+          <h3>Koneko Design Studio</h3>
+          <p class="role">Designer UX/UI, marketing et communication, formateur</p>
+          <ul>
+            <li>20+ projets d'interfaces : SaaS, e-commerce, applications mobiles, design systems.</li>
+            <li>Communication et acquisition de clients : communauté, campagnes Google Ads.</li>
+            <li>400+ apprenants formés au design centré utilisateur, comme formateur référent.</li>
+          </ul>
+          <div class="tags"><span class="tag">UX/UI</span><span class="tag">Google Ads</span><span class="tag">Formation</span></div>
+        </article>
+
+        <article class="project" data-cat="ia">
+          <div class="meta"><span class="label">2006 – 2017</span><span class="label">Groupe international</span></div>
+          <h3>IA intégrée à SAP</h3>
+          <p class="role">Saint-Gobain · comptable fournisseurs et suivi de projet IA</p>
+          <ul>
+            <li>Suivi d'un projet d'automatisation par IA intégré à SAP, qui lisait automatiquement les numéros de factures et de commandes.</li>
+            <li>En parallèle, comptabilité fournisseurs du siège et des agences : consolidations intragroupe, suivi des lignes de crédit, réclamations qualité sur les services, produits et clients.</li>
+          </ul>
+          <div class="tags"><span class="tag">SAP</span><span class="tag">Automatisation</span><span class="tag">Conduite du changement</span></div>
+        </article>
+
+        <article class="project" data-cat="com">
+          <div class="meta"><span class="label">2024</span><span class="label">Formation professionnelle</span></div>
+          <h3>BT Est Formation</h3>
+          <p class="role">Responsable marketing digital</p>
+          <ul>
+            <li>Pilotage des campagnes digitales et de la stratégie SEO/SEA.</li>
+            <li>Suivi et optimisation des performances sous Google Analytics.</li>
+            <li>Création de contenus vidéo et de supports commerciaux.</li>
+          </ul>
+          <div class="tags"><span class="tag">SEO/SEA</span><span class="tag">Google Analytics</span><span class="tag">Vidéo</span><span class="tag">Supports commerciaux</span></div>
+        </article>
+
+        <article class="project" data-cat="man com">
+          <div class="meta"><span class="label">Depuis juin 2026</span><span class="label">Moselle</span></div>
+          <h3>Le Phoenix</h3>
+          <p class="role">Chargé d'accompagnement des porteurs de projets · pépinière d'entreprises</p>
+          <ul>
+            <li>Accompagnement individuel et collectif des porteurs de projet, de l'émergence à la post-création, et préparation aux comités de sélection.</li>
+            <li>Conception d'un programme d'animations : ateliers, temps collectifs, co-développement.</li>
+            <li>Partenariats et animation des réseaux d'entrepreneurs du territoire.</li>
+          </ul>
+          <div class="tags"><span class="tag">Entrepreneuriat</span><span class="tag">Animation</span><span class="tag">Partenariats</span></div>
+        </article>
+
+        <article class="project" data-cat="ia">
+          <div class="meta"><span class="label">2025 – 2026</span><span class="label">Projet d'équipe · DataScientest</span></div>
+          <h3>Radiographies pulmonaires</h3>
+          <p class="role">Classification d'images médicales par deep learning</p>
+          <ul>
+            <li>Classification de radiographies pulmonaires en 4 classes (COVID-19, opacité pulmonaire, pneumonie virale, normal).</li>
+            <li>Transfer learning sur DenseNet121 avec fine-tuning progressif et pondération des classes déséquilibrées.</li>
+            <li>Interprétabilité des prédictions avec Grad-CAM, entraînement en local sur Mac M1.</li>
+          </ul>
+          <div class="tags"><span class="tag">Deep learning</span><span class="tag">TensorFlow</span><span class="tag">Computer vision</span></div>
+        </article>
+
+        <article class="project" data-cat="ia man">
+          <div class="meta"><span class="label">2025</span><span class="label">Étude de cas · Data Product Manager</span></div>
+          <h3>Vélib' : prédire la demande</h3>
+          <p class="role">Projet d'équipe sur le cas Smovengo, opérateur de Vélib' Métropole</p>
+          <ul>
+            <li>Stratégie data pour améliorer la disponibilité des vélos aux heures de pointe.</li>
+            <li>Business Model Canvas, personas et experience map, priorisation, KPIs de pilotage.</li>
+            <li>Machine Learning Canvas pour prédire la demande 15 à 30 minutes à l'avance, roadmap, MVP et gestion des risques.</li>
+          </ul>
+          <div class="tags"><span class="tag">Product management</span><span class="tag">Personas</span><span class="tag">ML Canvas</span></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="parcours">
+    <div class="wrap">
+      <div class="head">
+        <span class="label">Parcours</span>
+        <h2>Expériences et formation.</h2>
+      </div>
+      <div class="engage">
+        <span class="label">Engagement · habilité par le ministère du Travail</span>
+        <h3>Membre du jury du titre professionnel Concepteur Designer UI (CDUI)</h3>
+        <p>Habilité par le ministère du Travail et formé jury en 2022, j'évalue les candidats à ce titre RNCP de niveau 6, que je détiens moi-même.</p>
+      </div>
+      <ol class="timeline">
+        <li><span class="when">Juin 2026 →</span><div><h3>Chargé d'accompagnement des porteurs de projets</h3><p>Le Phoenix, pôle entrepreneurial (Moselle)</p></div></li>
+        <li><span class="when">Janv. 2025 – juin 2026</span><div><h3>Machine Learning Engineer &amp; communication du projet</h3><p>Goodforest</p></div></li>
+        <li class="edu"><span class="when">2025 – 2026</span><div><h3>Data Product Manager, 1re année du parcours Data Scientist validée</h3><p>DataScientest · certification obtenue en décembre 2025, modules certifiés en Python, SQL, MongoDB, machine learning, deep learning, computer vision, RGPD et éthique de l'IA</p></div></li>
+        <li class="edu"><span class="when">2024</span><div><h3>Concepteur Designer UI, titre professionnel niveau 6 (Bac+3)</h3><p>Ministère du Travail</p></div></li>
+        <li class="edu"><span class="when">2024</span><div><h3>Bootcamp Intelligence artificielle</h3><p>École IA Microsoft, CHRU Nancy</p></div></li>
+        <li><span class="when">2024</span><div><h3>Responsable marketing digital</h3><p>BT Est Formation</p></div></li>
+        <li><span class="when">2021 – 2023</span><div><h3>Chief Operating Officer</h3><p>Educentre, Station F (Paris)</p></div></li>
+        <li><span class="when">2017 – 2024</span><div><h3>Designer UX/UI, marketing et communication, formateur</h3><p>Koneko Design Studio, en freelance</p></div></li>
+        <li class="edu"><span class="when">2017 – 2024</span><div><h3>Formateur référent de titre professionnel</h3><p>Groupe Eureka · conception des programmes et des syllabus, préparation au titre, 400+ apprenants formés</p></div></li>
+        <li class="edu"><span class="when">2018</span><div><h3>Designer Web, titre professionnel niveau 5 (Bac+2)</h3><p>Atelier iGloo, Villers-lès-Nancy</p></div></li>
+        <li><span class="when">2006 – 2017</span><div><h3>Comptable fournisseurs (siège et agences) &amp; suivi de projet IA (SAP)</h3><p>Saint-Gobain · consolidations intragroupe, lignes de crédit, réclamations qualité</p></div></li>
+        <li class="edu"><span class="when">2005</span><div><h3>Assistant commercial de l'agro-alimentaire</h3><p>IS4A Laxou · mention assez bien</p></div></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="block" id="competences">
+    <div class="wrap">
+      <div class="head">
+        <span class="label">Compétences</span>
+        <h2>Boîte à outils.</h2>
+      </div>
+      <div class="skills">
+        <div><h3>Marketing &amp; communication</h3><div class="chips"><span class="chip">Stratégie digitale</span><span class="chip">SEO/SEA</span><span class="chip">Google Ads</span><span class="chip">Google Analytics</span><span class="chip">Gestion de communauté</span><span class="chip">Vulgarisation</span></div></div>
+        <div><h3>IA &amp; data</h3><div class="chips"><span class="chip">Machine learning</span><span class="chip">Python</span><span class="chip">SQL</span><span class="chip">Data product management</span><span class="chip">IA générative</span><span class="chip">Prompt engineering</span><span class="chip">Méthodes RCTFE et BMAD</span></div></div>
+        <div><h3>Design &amp; produit</h3><div class="chips"><span class="chip">UX research</span><span class="chip">UI design</span><span class="chip">Design systems</span><span class="chip">Agile</span><span class="chip">Figma</span><span class="chip">Suite Adobe</span></div></div>
+        <div><h3>Langues</h3><div class="chips"><span class="chip">Français</span><span class="chip">Anglais technique, lu et écrit</span></div></div>
+        <div><h3>Certifications</h3><div class="chips"><span class="chip">Data Product Manager · 2025</span><span class="chip">Google Analytics · 2024, 2025</span><span class="chip">UX research (Udemy) · 2025</span><span class="chip">Fondamentaux du marketing numérique (Google) · 2020</span></div></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<section class="contact" id="contact">
+  <div class="wrap">
+    <span class="label">Contact</span>
+    <h2>Parlons IA, communication ou projet.</h2>
+    <div class="contact-lines">
+      <div class="contact-line"><a href="mailto:crochatromuald@gmail.com" id="mail">crochatromuald@gmail.com</a><button class="copy" type="button" id="copy-mail">Copier</button></div>
+      <div class="contact-line"><a href="https://www.linkedin.com/in/romuald-crochat" target="_blank" rel="noopener">linkedin.com/in/romuald-crochat</a></div>
+    </div>
+    <footer>© 2026 Romuald Crochat · Metz, Grand Est</footer>
+  </div>
+</section>
+
+<script src="js/main.js" defer></script>
+</body>
+</html>
