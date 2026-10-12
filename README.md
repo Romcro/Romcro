@@ -9,6 +9,8 @@ Je rends l'**intelligence artificielle** compréhensible et utile. Mon parcours 
 ## 🚀 Projets
 
 - **Goodforest** · Modèles prédictifs sur données satellitaires pour l'analyse environnementale. Prix Innovation Grand Est au hackathon BioEcoCamp 2025.
+- **Super-résolution satellite** · Application web pour Goodforest : images Sentinel-2 via Google Earth Engine, super-résolution par IA (SEN2SR) de 10 m à 2,5 m par pixel, déployée sur Google Cloud Run.
+- **Rapport Santé des forêts 2025** · Enquête nationale Goodforest auprès de la filière forestière : collecte des données, rapport de 22 pages et supports de diffusion.
 - **Radiographies pulmonaires** · Projet d'équipe DataScientest : classification d'images en 4 classes (COVID-19, opacité pulmonaire, pneumonie virale, normal) par transfer learning DenseNet121, interprétabilité Grad-CAM.
 - **Vélib' : prédire la demande** · Étude de cas Data Product Manager sur Smovengo : personas, Business Model Canvas, Machine Learning Canvas, roadmap et MVP.
 - **IA intégrée à SAP** · Suivi d'un projet d'automatisation par IA chez Saint-Gobain (lecture automatique des factures et des commandes).
